@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
+    "/Volumes/Ze_Data/Document/CSharp_NET/SelfTaught/PokemonApp-ForkedToFix/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj": {}
   },
   "projects": {
-    "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {
+    "/Volumes/Ze_Data/Document/CSharp_NET/SelfTaught/PokemonApp-ForkedToFix/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "projectUniqueName": "/Volumes/Ze_Data/Document/CSharp_NET/SelfTaught/PokemonApp-ForkedToFix/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
         "projectName": "PokemonReviewApp",
-        "projectPath": "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
-        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+        "projectPath": "/Volumes/Ze_Data/Document/CSharp_NET/SelfTaught/PokemonApp-ForkedToFix/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
+        "packagesPath": "/Users/hendrix/.nuget/packages/",
+        "outputPath": "/Volumes/Ze_Data/Document/CSharp_NET/SelfTaught/PokemonApp-ForkedToFix/PokemonReviewApp/PokemonReviewApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/hendrix/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,24 +83,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.26, 6.0.26]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.26, 6.0.26]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.26, 6.0.26]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.26, 6.0.26]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -110,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
