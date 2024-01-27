@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qCDWMRUhOVGgrECyqSYzlnjlnbfNbNNPacp5gkAv8vE22z+FevXtOqt5Ztz8UzrzeutJ+Mzr+LDSxmR0w/HLLw==",
+  "dgSpecHash": "29CnNdCFg2yPr1n0FRzgnAqwh99o8grYTZhJCULYpQSf1OI4YmisNs+lbAYMFK9zP4bVXZ9gggUo6okP87pQtQ==",
   "success": true,
-  "projectFilePath": "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+  "projectFilePath": "D:\\FPT_Learning\\WebAPI\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bolic\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

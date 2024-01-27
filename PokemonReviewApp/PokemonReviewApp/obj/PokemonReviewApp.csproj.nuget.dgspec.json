@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
+    "D:\\FPT_Learning\\WebAPI\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
   },
   "projects": {
-    "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {
+    "D:\\FPT_Learning\\WebAPI\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\WebAPI\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
         "projectName": "PokemonReviewApp",
-        "projectPath": "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "projectPath": "D:\\FPT_Learning\\WebAPI\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
         "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_Learning\\WebAPI\\TutorialAPI_C#\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+        "outputPath": "D:\\FPT_Learning\\WebAPI\\PokemonApp\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
